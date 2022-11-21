@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azedeveloper
-- 👀 I’m interested in game development
-- 📫 How to reach me https://azestudios.net/
+- 👋 Hi, I’m @azedeveloper.
+- 👀 I’m interested in Programming.
+- 📫 Gmail: azealbinze@gmail.com
 
 <!---
 azedeveloper/azedeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
