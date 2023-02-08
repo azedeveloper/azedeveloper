@@ -1,3 +1,3 @@
 # 👋 Hi, I'm AzE.
 
-https://azedev.net/
+**Check out my website at: https://azedev.net/**
