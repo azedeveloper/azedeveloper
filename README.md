@@ -1,3 +1,3 @@
-##👋 **Hi, I'm AzE.**
+## Hi, I'm AzE.
 
 https://azedev.net/
