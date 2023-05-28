@@ -1,13 +1,5 @@
 # 👋 Hi, I'm AzE.
 
-## About:
-
-👋 Hi, I'm AzE! I'm a game and web developer from Sweden 🇸🇪, focusing mainly on front-end development.
-
-⚙️ I've been programming for about 4 years and enjoy working with various languages and frameworks.
-
-🎯 My goal is to create visually appealing and user-friendly experiences on both web and gaming platforms 🎮.
-
 ## What I use:
 <p> 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
