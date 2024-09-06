@@ -1,3 +1,3 @@
 # 👋 Hi, I'm AzE!
-![](https://komarev.com/ghpvc/?azedeveloper)
+![](https://komarev.com/ghpvc/azedeveloper)
 
