@@ -1,2 +1,6 @@
 # 👋 Hi, I'm Albin!
-Checkout my portfolio @ https://azedev.net/
+
+Check out my portfolio at https://azedev.net/
+
+## My skills
+[![](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,rust,python,cs,unity)](https://azedev.net)
